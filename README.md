@@ -1,2 +1,2 @@
 # tweety
-A small twitter backend clone
+A small twitter backend clone built using Go
